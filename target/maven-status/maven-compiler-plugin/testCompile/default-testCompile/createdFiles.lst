@@ -1,0 +1,6 @@
+locus/auth/service/ResourceManagerImplTest.class
+locus/auth/service/AuthServiceImplTest.class
+locus/auth/service/AccountServiceImplTest.class
+locus/auth/repository/ResourceConfigRepositoryTest.class
+locus/auth/repository/UserAccountRepositoryTest.class
+locus/auth/repository/RoleRepositoryTest.class
